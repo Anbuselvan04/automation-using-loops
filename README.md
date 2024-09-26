@@ -15,14 +15,17 @@
 ## Procedure:
   1. Create a New Project.
   2. Create Variables (repeatCounter, whileCounter, doWhileCounter).
-  3. In main flow sequence, add Repeat activity and set the number of times to repeat.
-  4. And add write line activity to print the output.
+### Repeat:
+  1. In main flow sequence, add Repeat activity and set the number of times to repeat.
+  2. And add write line activity to print the output.
 
+### While:
   1. Create a flowchart for while operation.
   2. Add while activity and connect the start to while.
   3. Set the condition for while and add the write line activity to display the output.
   4. Add assign activity to increment the counter.
 
+### Do-While:
   1. Create a flowchart for do-while operation.
   2. Add while activity and connect the start to while.
   3. Add the write line activity to display the output.
